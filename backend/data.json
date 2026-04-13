@@ -1,0 +1,17 @@
+{
+  "profile": {
+    "name": "Gautam Arora",
+    "school": "American High School",
+    "major": "computer science, engineering, or like data science",
+    "background": "Im apart of robotics team, went to regionals last year, looking for possible internships, research oppurtunities, or conversations with profesors for this summer"
+  },
+  "history": [
+    {
+      "professor": "Silvio Savarese",
+      "email": "silvio@cs.stanford.edu",
+      "university": "Stanford",
+      "emailDraft": "I've been exploring the applications of computer vision in robotics and was impressed by your work on semantic scene understanding. As a rising junior studying computer science, I'm excited to learn more about the possibilities at the intersection of these fields. Your research on 3D scene reconstruction and object recognition has been particularly inspiring to me. I'm reaching out to inquire about potential summer research opportunities or internships in your lab, or perhaps we could discuss project collaboration or just touch base informally to learn more about your work. Gautam Arora",
+      "date": "2026-04-13T02:49:45.886Z"
+    }
+  ]
+}

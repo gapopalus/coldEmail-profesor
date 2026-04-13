@@ -69,7 +69,16 @@ app.post('/api/search', async (req, res) => {
       scrapedText = '';
     }
 
-    const prompt = `You are helping a college student find professors to cold-email for summer opportunities.
+    const prompt = `A personalized cold email (250-300 words) from ${profile.name || 'the student'} to this professor.
+   - Start with "Dear Prof. [Last Name],"
+   - First paragraph: reference their SPECIFIC research topic in detail — not generic praise
+   - Second paragraph: describe YOUR specific background, projects, skills that are directly relevant to their work. Be concrete — name actual projects, tools, awards.
+   - Third paragraph: explain what specifically fascinates you about their research and how it connects to your experience
+   - Fourth paragraph: make a clear ask — summer research internship or conversation about opportunities
+   - Close with "Best," and the student's name
+   - Tone: enthusiastic but professional, specific not generic
+   - Do NOT use phrases like "I am writing to express my interest" or "I would be honored"
+   - The email should feel like it was written by someone who actually read their papers
 
 University: ${university}
 Student profile:
