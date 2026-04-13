@@ -2,8 +2,8 @@
   "profile": {
     "name": "Gautam Arora",
     "school": "American High School",
-    "major": "computer science, engineering, or like data science",
-    "background": "Im apart of robotics team, went to regionals last year, looking for possible internships, research oppurtunities, or conversations with profesors for this summer"
+    "major": "computer science, engineering, data science",
+    "background": "apart of an FTC team for 2 years, software lead, went to regionals last year. Experience in java programming with path generation of a robot, working with different sensors and understanding of using a camera. Created mini circuits and other projects through a raspberry pi."
   },
   "history": [
     {
@@ -12,6 +12,13 @@
       "university": "Stanford",
       "emailDraft": "I've been exploring the applications of computer vision in robotics and was impressed by your work on semantic scene understanding. As a rising junior studying computer science, I'm excited to learn more about the possibilities at the intersection of these fields. Your research on 3D scene reconstruction and object recognition has been particularly inspiring to me. I'm reaching out to inquire about potential summer research opportunities or internships in your lab, or perhaps we could discuss project collaboration or just touch base informally to learn more about your work. Gautam Arora",
       "date": "2026-04-13T02:49:45.886Z"
+    },
+    {
+      "professor": "Dylan Hadfield-Menell",
+      "email": "dhadfi@mit.edu",
+      "university": "MIT",
+      "emailDraft": "I'm Gautam Arora, a high school junior (Class of 2028) at American High School. Professor Hadfield-Menell's work on 'The Off-Switch Game' particularly caught my attention, as it highlights the importance of value alignment in artificial intelligence. This research made me think about the potential consequences of creating autonomous systems that can surpass human intelligence, and the need for careful consideration of their goals and motivations. The idea that we need to design systems that can be safely interrupted or 'turned off' raises important questions about the long-term implications of AI development.\n\nThrough my experience as a software lead on an FTC team, I've developed a strong foundation in programming languages like Java, and have applied this knowledge to design and implement efficient algorithms for robot path generation. Working with various sensors and cameras has also given me a deeper understanding of the complexities involved in robotics and computer vision. I believe that my experience in designing and building robotic systems, combined with my interest in AI and machine learning, could provide a unique perspective in Professor Hadfield-Menell's lab. My work on mini circuits and projects using a Raspberry Pi has also taught me the importance of hands-on experimentation and prototyping in the development of innovative technologies.\n\nProfessor Hadfield-Menell's research on decision theory and its application to artificial intelligence is particularly intriguing to me. The use of game theory to analyze the interactions between humans and AI systems raises important questions about the potential risks and benefits of advanced technologies. I am impressed by the way Professor Hadfield-Menell's work combines insights from economics, computer science, and philosophy to address the challenges of value alignment in AI. The idea that we need to develop a more nuanced understanding of the relationships between humans and machines is a compelling one, and I believe that Professor Hadfield-Menell's research has the potential to make a significant impact in this area.\n\nI am excited about the possibility of contributing to Professor Hadfield-Menell's lab as a summer 2026 research intern. With my strong programming skills, experience in robotics and computer vision, and interest in AI and machine learning, I believe that I could make a valuable contribution to the lab's research projects. I am confident that my unique combination of technical skills and intellectual curiosity would make me an asset to the team. I am excited about the opportunity to work with Professor Hadfield-Menell and learn from his expertise in decision theory and artificial intelligence. I believe that this experience would not only deepen my understanding of the subject matter but also provide me with the skills and knowledge necessary to pursue a career in this field.\n\nI would be grateful if Professor Hadfield-Menell would be open to a brief conversation to discuss my application and how I can contribute to the lab's research. I am looking forward to the opportunity to learn from him and explore the possibilities of working together. Best, Gautam Arora, American High School",
+      "date": "2026-04-13T06:09:52.458Z"
     }
   ]
 }
